@@ -1,9 +1,9 @@
 /* eslint-disable */
 export default {
-  displayName: 'semana01',
+  displayName: 'bootcamp',
   preset: './jest.preset.js',
   setupFilesAfterEnv: ['<rootDir>/src/test-setup.ts'],
-  coverageDirectory: './coverage/semana01',
+  coverageDirectory: './coverage/bootcamp',
   transform: {
     '^.+\\.(ts|mjs|js|html)$': [
       'jest-preset-angular',

@@ -24,7 +24,7 @@
           "error",
           {
             "type": "attribute",
-            "prefix": "semana01",
+            "prefix": "bootcamp",
             "style": "camelCase"
           }
         ],
@@ -32,7 +32,7 @@
           "error",
           {
             "type": "element",
-            "prefix": "semana01",
+            "prefix": "bootcamp",
             "style": "kebab-case"
           }
         ]
